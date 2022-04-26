@@ -3,49 +3,49 @@ MONGOODB - EXPRESS JS - REACT JS - NODE JS
 les interfaces de l'application web :
 
 sign-in interface :
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20in.jpg
 
 
 
 sign-up interface :
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20up.jpg
 
 
 
 user interface :
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/user%20dashboard.jpg
 
 
 
 home page:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/home.jpg
 
 
 
 shop page:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/shop.jpg
 
 
 
 add products:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg
 
 
 
 cart page:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg
 
 
 
 admin interface:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg
 
 
 
 create category interface:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/create%20category.jpg
 
 
 
 add products:
-hover text
+https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg
