@@ -3,49 +3,49 @@ MONGOODB - EXPRESS JS - REACT JS - NODE JS
 les interfaces de l'application web :
 
 sign-in interface :
-(https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20in.jpg)
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20in.jpg)
 
 
 
 sign-up interface :
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20up.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/sign%20up.jpg)
 
 
 
 user interface :
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/user%20dashboard.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/user%20dashboard.jpg)
 
 
 
 home page:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/home.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/home.jpg)
 
 
 
 shop page:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/shop.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/shop.jpg)
 
 
 
 add products:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg)
 
 
 
 cart page:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg)
 
 
 
 admin interface:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/cart.jpg)
 
 
 
 create category interface:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/create%20category.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/create%20category.jpg)
 
 
 
 add products:
-https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg
+![This is an image](https://github.com/omar-sanad/ecommerce-MERN-/raw/main/captures/add%20product.jpg)
